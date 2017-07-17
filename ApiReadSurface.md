@@ -1,0 +1,40 @@
+# Reads
+## Little to no manipulation of the data
+- Projects by owner
+- Per project metadata
+  - labels
+    - name
+    - color
+  - license
+    - name
+    - contents
+  - CoC
+    - existense
+    - name
+    - contents
+    - contacts // regex?
+- Issues
+  - assigned
+  - commented
+  - created
+  - mentioned
+- Pull requests
+  - assigned
+  - commented
+  - created
+  - mentioned
+- Source rank
+  - Forkability?
+## Require storing data/larger amount of calls
+- Maintaince Status (I think libraries.io can help with this) 
+  - mantained
+  - co-maintained
+  - deprecated
+  - stable/frozen
+  - beta
+  - alpha
+- Attention needed (might be able to hitch on to labels for this
+  - Reply needed
+  - Feedback needed
+  - Feeedback given
+  - Review in progress
