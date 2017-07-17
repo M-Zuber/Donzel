@@ -8,7 +8,7 @@ There is no reason they should also have to spend so much of the precious resour
 The purpose of this api is to provide an abstract layer over the metadata of any set of repositories that a maintainer might be responsible for. From ensuring labels have a consistent color scheme across a set of repositories, to making sure all licensing issues are dealt with, and over to proritizing issues across repositories.
 
 Think if such a tool would even be able to manage to do all this not just across repostories and organizations, but also across hosting sites?
-Thanks to all the hard work done in https://github.com/librariesio/ by @teabass and @benjam and all the contributors in the many ways that they have given to the project, we can make this a reality.
+Thanks to all the hard work done in https://github.com/librariesio/ by Andrew Nesbitt and @benjam and all the contributors in the many ways that they have given to the project, we can make this a reality.
 
 ## Vision
 To provide an api that can be the backbone for consuming/acting on the data in any way the maintainer might choose.
@@ -16,7 +16,7 @@ From a cli to mobile app, from Windows to OSX, we want everyone to be able to us
 
 ## Thanks and Acknowledgments
 - https://github.com/librariesio/ for being a source to enable such a project
-- @teabass for the encourgment
+- [Andrew Nesbitt](https://github.com/andrew) for the encourgment
 - @shiftkey for being a rolemodel OSS maintainer
 
 //todo `Need links`
